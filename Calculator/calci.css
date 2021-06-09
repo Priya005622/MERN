@@ -1,0 +1,52 @@
+.main{
+    margin: 50px auto;
+    border: 3px solid #dfeeea;
+    height: 550px;
+    width: 400px;
+    padding: 5px;
+    box-shadow: 10px 20px 30px;
+    background-size: cover;
+    border-radius: 25px;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(222,168,248,1) 0%, rgba(168,222,248,1) 21.8%, rgba(189,250,205,1) 35.6%, rgba(243,250,189,1) 52.9%, rgba(250,227,189,1) 66.8%, rgba(248,172,172,1) 90%, rgba(254,211,252,1) 99.7% );
+}
+table{
+    width: 100%;
+    margin: auto;
+}
+td{
+    width: 15%;
+}
+button{
+    border-color: #93329e;
+    box-shadow: 6px 6px 5px 3px ;
+    border-radius: 20px;
+    margin: 2px;
+    width: 90%;
+    height: 55px;
+    font-size:xx-large;
+    font-weight: lighter;
+    color: #f8a1d1;
+    background-color: #e4fbff;    
+     
+}
+#cal{
+    border-radius: 10px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: x-large;
+    padding: 10px;
+    margin-left: auto;
+    width: 90%;
+    height: 50px;
+}
+h1{
+    font-style: italic;
+    font-weight:bolder;
+    font: larger;
+    font-family:serif;
+    font-size: 350%;
+    color: #0061a8;
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 4px 2px #d8ac9c;
+}
