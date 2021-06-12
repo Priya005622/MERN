@@ -1,0 +1,77 @@
+body{
+    background-image: linear-gradient(seashell,skyblue,tan );
+    
+}
+
+a:hover{
+    background-color:silver
+}
+a{
+    margin: 7000px;
+    padding: 1000px;
+    border: solid;
+    border-block-color: green;
+}
+#one{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:orchid;
+    margin:40px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#two{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:orchid;
+    margin: 40px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#three{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:orchid;
+    margin: 40px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#four{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:orchid;
+    margin: 40px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+div{
+    color:darkcyan;
+    font-size: x-large;
+    float: left;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#P{
+    text-align: center;
+    font-size:50px;
+    font-weight: bolder;
+    font-style: italic;
+    color:slateblue;
+}
+#Buy{
+    color:tomato;
+    background-color:thistle;
+    font-size: medium;
+    font-weight: bolder;
+}
